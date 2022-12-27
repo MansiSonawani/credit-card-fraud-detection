@@ -71,3 +71,14 @@ Ex: Everything is correct except the email address is something like GTI#)!enw@g
 
 
 The major factor that I have taken into consideration in this project is the transaction pattern
+
+
+
+
+TO RUN LOCALLY IN VIRTUAL ENV
+# In cmd.exe
+venv\Scripts\activate.bat
+# In PowerShell
+venv\Scripts\Activate.ps1
+
+
