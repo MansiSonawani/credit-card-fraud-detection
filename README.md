@@ -82,3 +82,10 @@ venv\Scripts\activate.bat
 venv\Scripts\Activate.ps1
 
 
+
+FUN FACT
+In the code we split the dataset and set the seed for random_state to 42.
+WHY 42?
+It's a pop-culture reference! In Douglas Adams's popular 1979 science-fiction novel The Hitchhiker's Guide to the Galaxy, towards the end of the book, the supercomputer Deep Thought reveals that the answer to the great question of “life, the universe and everything” is 42.
+
+
